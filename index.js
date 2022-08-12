@@ -1,3 +1,6 @@
+const colors = require('colors');
+// TO DO: include code for logger with trace that is not in-line.
+
 const PATH = require('path')
 const LOG_TYPES = {
     NONE: 0,

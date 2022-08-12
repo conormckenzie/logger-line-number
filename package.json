@@ -1,3 +1,6 @@
+// TO DO: change references from original github to my github. 
+//  ALSO: learn how publishing an NPM package works
+
 {
   "_from": "logger-line-number",
   "_id": "logger-line-number@1.0.4",
@@ -29,7 +32,7 @@
   "bugs": {
     "url": "https://github.com/jinweizhiyuan/nodejs_logger/issues"
   },
-  "bundleDependencies": false,
+  "bundleDependencies": [],
   "deprecated": false,
   "description": "jinwei_zhiyuan logger",
   "homepage": "https://github.com/jinweizhiyuan/nodejs_logger#readme",
@@ -50,5 +53,8 @@
   "scripts": {
     "test": "node test.js"
   },
-  "version": "1.0.4"
+  "version": "1.0.4",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }

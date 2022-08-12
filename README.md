@@ -1,6 +1,6 @@
-# logger-line-number
+# logger-line-number-colors
 
-nodejs logger utility with name and linen number
+nodejs logger utility with name and line number, supporting colors
 
 ## Installation
 
